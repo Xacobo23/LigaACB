@@ -81,25 +81,4 @@ public class LigaAcb {
 }
 
 
-//        Equipo e1 = new Equipo("Real Madrid", 18, 5, 1920, 1695);
-//        Equipo e2 = new Equipo("FC Barcelona", 22, 2, 1785, 1585);
-//        Equipo e3 = new Equipo("Manresa", 15, 7, 1903, 1808);
-//        Equipo e4 = new Equipo("Valencia", 14, 8, 1834, 1760);
-//        Equipo e5 = new Equipo("Obradoiro", 23, 1, 2834, 1560);
-//        Equipo e6 = new Equipo("Obradoiro", 26, 1, 2834, 1560);
-//
-//        EquipoFileDao equipoFileDao = new EquipoFileDao("Liga ACB.dat");
-//        equipoFileDao.save(e1);
-//        equipoFileDao.save(e2);
-//        equipoFileDao.save(e3);
-//        equipoFileDao.save(e4);
-//        equipoFileDao.save(e5);
-//        equipoFileDao.update(e6);
-//
-//        equipoFileDao.delete(new Equipo("Real Madrid"));
-//
-//        System.out.println(equipoFileDao.get("Obradoiro"));
-//
-//
-//        equipoFileDao.getAll().forEach(System.out::println);
 
